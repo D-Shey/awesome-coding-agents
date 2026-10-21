@@ -89,6 +89,7 @@
 | 👀 | [CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp) | mcp, screenshot, pdf, hosted | Hosted MCP server for CurlShot: let AI agents take screenshots of any web page (PNG, JPEG, WebP, PDF, video). Setup for Claude, Cursor, VS Code. |
 | 👀 | [Sqwakie](https://github.com/alexcarney460-hue/walkie) | multi-agent, peer-to-peer, kanban, mcp, source-available | A walkie-talkie for your team's AI agents: Mission Control, project boards with Data Rooms, seats, peer-to-peer Walkie Direct, pooled local LLMs. FSL-1.1-ALv2. |
 | 👀 | [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) | desktop, acp, subagents, local-models | Free, open-source desktop app for Claude Code and Codex: follow every agent and subagent live, run your own agent organization and automate routines. Also searches your Gemini CLI and Grok history. macOS, Windows, Linux. |
+| 👀 | [autoharness](https://github.com/D-Shey/autoharness) | harness, skills, critic, mcp-gateway | Engineering discipline for coding agents: prepare before building, check against the original, let an independent critic judge the result. |
 
 ## Agent Instructions
 
