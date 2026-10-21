@@ -89,6 +89,7 @@
 | 👀 | [CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp) | mcp, screenshot, pdf, hosted | Hosted MCP server for CurlShot: let AI agents take screenshots of any web page (PNG, JPEG, WebP, PDF, video). Setup for Claude, Cursor, VS Code. |
 | 👀 | [Sqwakie](https://github.com/alexcarney460-hue/walkie) | multi-agent, peer-to-peer, kanban, mcp, source-available | A walkie-talkie for your team's AI agents: Mission Control, project boards with Data Rooms, seats, peer-to-peer Walkie Direct, pooled local LLMs. FSL-1.1-ALv2. |
 | 👀 | [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) | desktop, acp, subagents, local-models | Free, open-source desktop app for Claude Code and Codex: follow every agent and subagent live, run your own agent organization and automate routines. Also searches your Gemini CLI and Grok history. macOS, Windows, Linux. |
+| 👀 | [acpantenna](https://github.com/fboldo/acpantenna) | acp, remote-access, e2e, qr | An ngrok for your coding agent. Use Claude Code, Codex or any ACP agent from your phone, end-to-end encrypted. |
 | 👀 | [autoharness](https://github.com/D-Shey/autoharness) | harness, skills, critic, mcp-gateway | Engineering discipline for coding agents: prepare before building, check against the original, let an independent critic judge the result. |
 
 ## Agent Instructions
@@ -100,6 +101,7 @@
 | 👀 | [AGENTS.md Starter Kit](https://github.com/sunxiayi/agents-md-starter-kit) | agents-md, templates, cli, github-actions | One-command AGENTS.md starter templates for monorepos, Python, Next.js, Codex, Claude Code, Cursor, Copilot, Gemini CLI, and Windsurf. |
 | 👀 | [toldya](https://github.com/singhlabsdev/toldya) | claude-md, agents-md, local-first, zero-dependencies | Stop repeating yourself to your AI. Finds what you keep telling your coding agent, writes it into CLAUDE.md / AGENTS.md, counts whether it stopped. |
 | 👀 | [since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff) | agents-md, knowledge-cutoff, api-changes, type-checked, python | Find which of your exact dependency versions your coding agent writes wrong, and fix it with a small AGENTS.md note verified by a type checker. |
+| 👀 | [Off the Wall](https://github.com/toranalytics/off-the-wall) | claude-code, codex, hooks, corrections, subagents | Quotes your own past corrections back to Claude Code and Codex, reports what you correct most, and has the orchestrator name a model for each subagent. |
 
 ## Knowledge & Context
 
